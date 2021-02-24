@@ -40,7 +40,7 @@ class Home extends StatelessWidget {
                   children: <Widget>[
                     Icon(Icons.location_on,size: 22,),
                     SizedBox(width: 10,),
-                    Text('Bangalore, Karnataka',style: TextStyle(fontSize: 22),),
+                    Text('Mangalore, Karnataka',style: TextStyle(fontSize: 22),),
                   ],
                 ),
                 SizedBox(height: 10,),
